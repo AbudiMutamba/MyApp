@@ -9,6 +9,6 @@ Trying out
 
 _this is italicised text
 
-[tid id a link](https://guides.github.com/features/mastering-markdown/)
+[Markdown tutorial](https://guides.github.com/features/mastering-markdown/)
 
 >this is a commit
