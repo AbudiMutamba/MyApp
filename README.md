@@ -1,7 +1,6 @@
 # MyApp
-Trying out 
 
-## this is my first app
+## this is my first website using HTML
 
 ###this is level 3 
 
